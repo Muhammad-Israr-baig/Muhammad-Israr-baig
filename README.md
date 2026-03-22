@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Muhammad Israr Baig
 
 ### 🚀 Polymath | Machine Learning Enthusiast | CS 
-I am a 5th-semester Computer Science student driven by the synergy of **Statistics**, **Creative Thinking**, and **Data Science**. My goal is to build intelligent systems that solve real-world problems through elegant code and rigorous analysis.
+I am a Computer Science student driven by the synergy of **Statistics**, **Creative Thinking**, and **Data Science**. My goal is to build intelligent systems that solve real-world problems through elegant code and rigorous analysis.
 
 ---
 
