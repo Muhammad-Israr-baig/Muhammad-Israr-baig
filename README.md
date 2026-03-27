@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muhammad Israr Baig
 
-### 🚀 Polymath | Machine Learning Enthusiast | CS 
+### 🚀 Polymath | Machine Learning | CS 
 I am a Computer Science student driven by the synergy of **Statistics**, **Creative Thinking**, and **Data Science**. My goal is to build intelligent systems that solve real-world problems through elegant code and rigorous analysis.
 
 ---
@@ -18,13 +18,16 @@ I am a Computer Science student driven by the synergy of **Statistics**, **Creat
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **AI & ML** | **SVM**, **K-Nearest Neighbors (KNN)**, **Scikit-Learn**, **NumPy**, **Pandas**, **Matplotlib** |
+| **AI & ML** | **SVM**, **K-Nearest Neighbors (KNN)**, **Multi-Layer Perceptron (MLP)**, **Scikit-Learn**, **NumPy** |
 | **Web & Data** | **HTML5**, **CSS3**, **JavaScript**, **Advanced DBMS** |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **Jupyter Notebook**, **VS Code** |
 
 ---
 
 ### 📂 Featured Projects
+
+#### ✍️ [Handwritten Digit Recognition (MLP)](https://github.com/Muhammad-Israr-baig/Handwritten-Digit-Recognition-using-MLP.git)
+Developed a Neural Network model using **Multi-Layer Perceptron (MLP)** to recognize handwritten digits. This project involved implementing forward and backward propagation, optimizing weights, and achieving high accuracy on the MNIST dataset.
 
 #### 🌸 [Iris Flower Classification (SVM)](https://github.com/Muhammad-Israr-baig/svm-iris)
 Implemented a **Support Vector Machine** model to classify iris species with **96.6% accuracy**. This project involved extensive data visualization and mathematical optimization of the decision boundary.
@@ -38,8 +41,8 @@ A creative web-based solution designed to manage and track electronic waste, pro
 ---
 
 ### 📈 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Muhammad-Israr-baig&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Muhammad-Israr-baig&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammad-Israr-baig&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammad-Israr-baig&layout=compact&theme=radical)
 
 ---
 
