@@ -38,14 +38,14 @@ A creative web-based solution designed to manage and track electronic waste, pro
 ---
 
 ### 📈 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Israr-baig&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Israr-baig&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Muhammad-Israr-baig&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Muhammad-Israr-baig&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
 * **LinkedIn**: [Israr Baig](https://www.linkedin.com/in/israr-baig-1672912ab)
-* **Email**: [israrbaig557799@gmail.com]
+* **Email**: [israrbaig557799@gmail.com](mailto:israrbaig557799@gmail.com)
 
 ---
 *“Exploring the boundaries of intelligence, one line of code at a time.”*
