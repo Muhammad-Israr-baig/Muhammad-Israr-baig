@@ -3,7 +3,7 @@
 ### 🚀 Polymath | Machine Learning | CS 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-israr-portfolio.vercel.app/)
 
-I am a 5th-semester Computer Science student at FUUAST driven by the synergy of **Statistics**, **Creative Thinking**, and **Data Science**. My goal is to build intelligent systems that solve real-world problems through elegant code and rigorous analysis.
+I am a Computer Science student driven by the synergy of **Statistics**, **Creative Thinking**, and **Data Science**. My goal is to build intelligent systems that solve real-world problems through elegant code and rigorous analysis.
 
 ---
 
