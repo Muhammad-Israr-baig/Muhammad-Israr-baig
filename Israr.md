@@ -43,8 +43,13 @@ A creative web-based solution designed to manage and track electronic waste, pro
 ---
 
 ### 📈 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammad-Israr-baig&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammad-Israr-baig&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Israr-baig&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Israr-baig&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Israr-baig&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ---
 
